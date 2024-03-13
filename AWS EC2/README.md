@@ -1,2 +1,2 @@
-Terraform configuration to run simple app on EC2 and using HTTP service.
-![alt text](image.png)# Terraform
+Terraform configuration to run simple app on EC2 using http service.
+![alt text](image.png)
